@@ -1,0 +1,24 @@
+{
+  "name": "design-patterns-typescript",
+  "version": "1.0.0",
+  "description": "Design Patters with TypeScript",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurvmdantas/design-patterns-typescript.git"
+  },
+  "author": "Arthur V. M. Dantas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurvmdantas/design-patterns-typescript/issues"
+  },
+  "homepage": "https://github.com/arthurvmdantas/design-patterns-typescript#readme",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
