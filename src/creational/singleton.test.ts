@@ -17,7 +17,7 @@ describe("Singleton", () => {
     const s = Singleton.getInstance();
     s.decrement();
 
-    expect(s.count).toEqual(0);
+    expect(s.count).toBe(0);
   });
 });
 
